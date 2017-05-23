@@ -1,0 +1,8 @@
+C:\Learning\POCs\MultipleWCFContracts\WcfWithMultiContracts\bin\WcfWithMultiContracts.dll
+C:\Learning\POCs\MultipleWCFContracts\WcfWithMultiContracts\bin\WcfWithMultiContracts.pdb
+C:\Learning\POCs\MultipleWCFContracts\WcfWithMultiContracts\obj\Debug\WcfWithMultiContracts.dll
+C:\Learning\POCs\MultipleWCFContracts\WcfWithMultiContracts\obj\Debug\WcfWithMultiContracts.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\WcfWithMultiContracts\bin\WcfWithMultiContracts.dll
+C:\Learning\POCs\WCF\MultipleWCFContracts\WcfWithMultiContracts\bin\WcfWithMultiContracts.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\WcfWithMultiContracts\obj\Debug\WcfWithMultiContracts.dll
+C:\Learning\POCs\WCF\MultipleWCFContracts\WcfWithMultiContracts\obj\Debug\WcfWithMultiContracts.pdb

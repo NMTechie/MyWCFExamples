@@ -1,0 +1,10 @@
+C:\Learning\POCs\MultipleWCFContracts\MultipleWCFContracts\bin\Debug\MultipleWCFContracts.dll.config
+C:\Learning\POCs\MultipleWCFContracts\MultipleWCFContracts\bin\Debug\MultipleWCFContracts.dll
+C:\Learning\POCs\MultipleWCFContracts\MultipleWCFContracts\bin\Debug\MultipleWCFContracts.pdb
+C:\Learning\POCs\MultipleWCFContracts\MultipleWCFContracts\obj\Debug\MultipleWCFContracts.dll
+C:\Learning\POCs\MultipleWCFContracts\MultipleWCFContracts\obj\Debug\MultipleWCFContracts.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultipleWCFContracts\bin\Debug\MultipleWCFContracts.dll.config
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultipleWCFContracts\bin\Debug\MultipleWCFContracts.dll
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultipleWCFContracts\bin\Debug\MultipleWCFContracts.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultipleWCFContracts\obj\Debug\MultipleWCFContracts.dll
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultipleWCFContracts\obj\Debug\MultipleWCFContracts.pdb

@@ -1,0 +1,10 @@
+C:\Learning\POCs\MultipleWCFContracts\MultiContractClient\bin\Debug\MultiContractClient.exe.config
+C:\Learning\POCs\MultipleWCFContracts\MultiContractClient\bin\Debug\MultiContractClient.exe
+C:\Learning\POCs\MultipleWCFContracts\MultiContractClient\bin\Debug\MultiContractClient.pdb
+C:\Learning\POCs\MultipleWCFContracts\MultiContractClient\obj\x86\Debug\MultiContractClient.exe
+C:\Learning\POCs\MultipleWCFContracts\MultiContractClient\obj\x86\Debug\MultiContractClient.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultiContractClient\bin\Debug\MultiContractClient.exe.config
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultiContractClient\bin\Debug\MultiContractClient.exe
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultiContractClient\bin\Debug\MultiContractClient.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultiContractClient\obj\x86\Debug\MultiContractClient.exe
+C:\Learning\POCs\WCF\MultipleWCFContracts\MultiContractClient\obj\x86\Debug\MultiContractClient.pdb

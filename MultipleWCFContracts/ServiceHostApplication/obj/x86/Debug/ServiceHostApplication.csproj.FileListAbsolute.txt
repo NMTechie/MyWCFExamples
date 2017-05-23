@@ -1,0 +1,14 @@
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\bin\Debug\ServiceHostApplication.exe
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\bin\Debug\ServiceHostApplication.pdb
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\bin\Debug\MultipleWCFContracts.dll
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\bin\Debug\MultipleWCFContracts.pdb
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.csprojResolveAssemblyReference.cache
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.exe
+C:\Learning\POCs\MultipleWCFContracts\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\bin\Debug\ServiceHostApplication.exe
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\bin\Debug\ServiceHostApplication.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\bin\Debug\MultipleWCFContracts.dll
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\bin\Debug\MultipleWCFContracts.pdb
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.csprojResolveAssemblyReference.cache
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.exe
+C:\Learning\POCs\WCF\MultipleWCFContracts\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.pdb
